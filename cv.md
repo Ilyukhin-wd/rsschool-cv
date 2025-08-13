@@ -8,7 +8,7 @@ Email: ilyukhin-wd@gmail.com
 
 Telegram: @IlyukhinWD
 
-##
+## Briefly about myself:
 
 I'm only at the beginning of my path in IT, but I have a clear understanding of who I am, what I want, how I can reach my goals, and how I can continue to grow—both personally and professionally. I bring a broad and diverse background, including significant experience in business followed by six years in medicine.
 
