@@ -26,3 +26,15 @@ ul{
     list-style-type: none;
     padding: left 0;
 }
+body{
+    display:flex;
+    gap: 20px;
+}
+.profile{
+    flex: 1;
+}
+@media (max-width:768px){
+body{
+    flex-direction: column;
+}
+}
