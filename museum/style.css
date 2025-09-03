@@ -57,10 +57,35 @@ h1,h2,h3 {
 .bold {
     font-weight: 700;
 }
-
+.header-container {
+    background-color: black;
+    color: #fff;
+    padding: 1.5rem 0;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+} 
+.logo-text-container {
+    font-family: 'Forum';
+    font-size: 1.75rem;
+    line-height: auto;
+    letter-spacing: 0.3125rem;
+    
+    display: flex;
+    align-items: center;
+    gap: 0,5rem;
+}
+    
 main {
     border: 1px solid red;
     min-height: 50px;
+}
+.section {
+    min-height: 200px;
+    padding: 5% 0;
 }
 .section {
     padding-top: 5%;
@@ -72,4 +97,17 @@ main {
 }
 .video-section {
     padding-top: 6%;
+}
+.container {
+    margin: 0%, auto;
+    max-width: 1440px;
+    width: 90%;
+}
+.logo-vector-container {
+    width: 49px;
+    height: 26px;
+    background-image: url("assets/svg/Vector.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
