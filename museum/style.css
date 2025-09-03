@@ -57,3 +57,19 @@ h1,h2,h3 {
 .bold {
     font-weight: 700;
 }
+
+main {
+    border: 1px solid red;
+    min-height: 50px;
+}
+.section {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.dark-section {
+    background-color: #222;
+    color: #fff;
+}
+.video-section {
+    padding-top: 6%;
+}
